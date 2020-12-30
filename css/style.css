@@ -1,0 +1,117 @@
+.maejo_header{
+    height: 70px;
+    margin-top: 1rem;
+    
+}
+
+.sp{
+    margin-top: 2rem;
+}
+
+.sp1{
+    margin-bottom: 1rem;
+}
+
+.sp2{
+    padding-top: 2rem;
+}
+
+.sp3{
+    width: 7rem;
+}
+
+.sp4{
+    margin-bottom: 1.5;
+}
+
+.sp5{
+    margin-left: 1rem;
+}
+
+.sp6{
+    margin-right: 0.5rem;
+}
+
+.sp7{
+    padding-right: 3rem;
+    padding-bottom: 1rem;
+}
+
+.sp8{
+    margin-bottom: 2rem;
+}
+
+.maejo_text{
+    text-align: right; font-size: 20px;
+}
+
+.maejo_text1{
+    text-align: center; font-size: 30px;
+    margin-right: 10rem;
+}
+
+.maejo_text2{
+    text-align: center; font-size: 20px;
+}
+
+.text1{
+    text-align: center;
+}
+
+.cc{
+    border-style: solid;
+}
+
+/* input[type=text] {
+     width: 60rem;
+     margin-right: 0.7;
+   /*  padding: 12px 20px; */
+    /* margin-left: 0.7rem;
+    box-sizing: border-box;
+} */
+
+
+/* input[type=text1] {
+    width: 59.8rem;
+    margin-right: 0.7; */
+  /*  padding: 12px 20px; */
+   /* margin-left: 0.7rem; */
+   /* box-sizing: border-box;
+} */
+
+/* input[type=text2] {
+    width: 100%;
+    margin-right: 0.7; */
+   /* padding: 12px 20px; */
+   /* margin-left: 1.7rem;
+   box-sizing: border-box; 
+} */
+
+.text3{
+    font-size: 20px;
+}
+
+.text4{
+    font-size: 20px;
+    margin-bottom: 1rem;
+}
+
+.hg{
+    width: 20rem;
+}
+
+.hg1{
+    width: 25rem;
+}
+
+.hg2{
+    width: 26rem;
+}
+
+.hg3{
+    width: 13rem;
+}
+
+.hg4{
+    width: 5rem;
+}
